@@ -8,7 +8,7 @@
 
 body{
     font-family: 'Netflix Sans', sans-serif;
-    background-color: rgb(238, 39, 39);
+    background-color: red;
 }
 ::-webkit-scrollbar{
     width: 7px;
@@ -41,7 +41,7 @@ body{
 
 }
 .nav_logo{
-    width: 180px;
+    width: 280px;
 
 }
 .nav_right{
